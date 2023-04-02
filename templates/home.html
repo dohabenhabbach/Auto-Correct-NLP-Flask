@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Word Correction App</title>
+	<style>
+		body {
+    			background-color: #ccccff;
+    			font-size: 1.6rem;
+    			font-family: "Open Sans", sans-serif;
+    			color: #2b3e51;
+
+			}
+		p {
+    			position: relative;
+			}
+		#form {
+    			background-color: #e6e6ff;
+   				width: 55%;
+    			margin: 50px auto;
+    			text-align: center;
+    			padding: 20px 0 0 0;
+    			border-radius: 4px;
+    			box-shadow: 0px 30px 50px 0px rgba(0, 0, 0, 0.2);
+			}
+
+    </style>
+</head>
+<body>
+<h1 align="center">Word Correction App</h1>
+<div class="container" id="form">
+
+	<form method="POST" action="{{ url_for('get_corrections') }}">
+
+		<label for="word">Word:</label><br>
+		<input type="text" id="word" name="word">
+		<br>
+		<input type="submit" value="Submit">
+	</form>
+</div>
+</body>
+</html>
