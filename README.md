@@ -5,8 +5,8 @@ Auto-Correct-NLP
 <ul>
   <li>This program suggests other words that are similar in usage to the input words based on a given text corpus. </li>
 </ul> <br>
-## Prerequisites <br>
-This program requires Python 3 and the following libraries: <br>
+## Prerequisites    
+<br>This program requires Python 3 and the following libraries: <br>
 - Flask <br>
 ```
    pip install flask
