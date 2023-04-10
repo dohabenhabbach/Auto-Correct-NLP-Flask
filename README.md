@@ -23,7 +23,7 @@ This program requires Python 3 and the following libraries: <br>
 <h1>The Interface</h1><br>
 <img width="617" alt="image" src="https://user-images.githubusercontent.com/108173949/229646802-ee15fbea-4e9e-4f2d-8272-4033076f4015.png">
 
-<h1>Program Running</h1>
+## Program Running
 You can run the Program by the following command:
 ` ` `
 python app.py
