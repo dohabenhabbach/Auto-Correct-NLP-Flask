@@ -5,9 +5,11 @@ Auto-Correct-NLP
 - This program suggests other words that are similar in usage to the input words based on a given text corpus. <br>
 ## Prerequisites
 This program requires Python 3 and the following libraries: <br>
+- Flask
 ```
 pip install flask
 ```
+- Collection and re
 ```
 pip install Collection re
 ```
