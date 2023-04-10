@@ -15,7 +15,7 @@ pip install Collection re
 ```
 
 <h1>The Interface</h1><br>
-- You can Enter a word  and click submit button to see a list of suggested corrections. <br>
+You can Enter a word  and click submit button to see a list of suggested corrections. <br>
 <img width="617" alt="image" src="https://user-images.githubusercontent.com/108173949/229646802-ee15fbea-4e9e-4f2d-8272-4033076f4015.png">
 
 ## Program Running
