@@ -4,7 +4,7 @@ Auto-Correct-NLP
 <h1> Description </h1>
 <ul>
   <li>This program suggests other words that are similar in usage to the input words based on a given text corpus. </li>
-</ul>
+</ul> <br>
 ## Prerequisites <br>
 This program requires Python 3 and the following libraries: <br>
 - Flask <br>
