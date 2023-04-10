@@ -1,22 +1,17 @@
 # Auto-Correct-NLP 
 
 Auto-Correct-NLP 
-<h1> Description </h1>
-<ul>
-  <li>This program suggests other words that are similar in usage to the input words based on a given text corpus. </li>
-</ul> <br>
-## Prerequisites    
-<br>This program requires Python 3 and the following libraries: <br>
-- Flask <br>
+## Description 
+- This program suggests other words that are similar in usage to the input words based on a given text corpus. <br>
+## Prerequisites
+This program requires Python 3 and the following libraries: <br>
 ```
-   pip install flask
+pip install flask
 ```
-<br>
-- re <br>
-- Collection <br>
 ```
-   pip install Collection re
+pip install Collection re
 ```
+
 <h1>The Interface</h1><br>
 <img width="617" alt="image" src="https://user-images.githubusercontent.com/108173949/229646802-ee15fbea-4e9e-4f2d-8272-4033076f4015.png">
 
